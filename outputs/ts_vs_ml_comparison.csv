@@ -1,0 +1,5 @@
+Site,Best TS,TS Model,Best ML,ML Model,Improvement %,Winner
+Janakpur Dham,33.73,ARIMA,15.45,XGBoost,54.2,XGBoost
+Lumbini,32.22,ARIMA,13.72,Random Forest,57.4,Random Forest
+Muktinath,41.7,SARIMA,19.02,Random Forest,54.4,Random Forest
+Pashupatinath,24.29,SARIMA,13.16,Random Forest,45.8,Random Forest

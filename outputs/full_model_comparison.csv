@@ -1,0 +1,5 @@
+Site,ARIMA,SARIMA,Random Forest,XGBoost,Best Model,Best MAPE
+Janakpur Dham,33.73,37.79,16.52,15.45,XGBoost,15.45
+Lumbini,32.22,41.97,13.72,14.09,Random Forest,13.72
+Muktinath,54.74,41.7,19.02,24.91,Random Forest,19.02
+Pashupatinath,38.88,24.29,13.16,14.91,Random Forest,13.16
